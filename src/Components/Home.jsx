@@ -47,7 +47,7 @@ function Home() {
                 <h2 style={{ color: "#F1C93B" }}>Devajeet Acharya</h2>
               
               <div>
-                <h4>I started Working AS A Front-End Developer <br /> Since Last 3 Months And
+                <h4>I started Working As A Front-End Developer <br /> Since Last 3 Months And
                   <br /> Now I Am Loving this Profession  And  <br /> I Want to Be a successful Developer In Future. </h4>
               </div>
               <Container style={{ display: "flex" }}>
@@ -68,7 +68,7 @@ function Home() {
           <Box sx={{ color: "green" }}>
             <Typography sx={{ color: "#ffffff" }}>Connect Me On</Typography> 
             <a href="https://wa.me/+918338845496">
-            <WhatsAppIcon style={{ fontSize: "30px", marginLeft: "25px" }} />
+            <WhatsAppIcon style={{ fontSize: "30px",color:"#16FF00", marginLeft: "25px" }} />
                </a>
             
           </Box>
