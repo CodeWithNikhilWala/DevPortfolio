@@ -2,7 +2,8 @@
 import React from 'react';
 import { Container, Row, Col, Card,} from 'react-bootstrap';
 import Header from './Header';
-
+import { Modal } from 'react-bootstrap';
+import { useState } from 'react';
 const Project = () => {
 
   const projects = [
