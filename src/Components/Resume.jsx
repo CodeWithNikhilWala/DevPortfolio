@@ -10,7 +10,7 @@ const Resume = () => {
     const link = document.createElement('a');
     link.href = resumePath;
     link.target = '_blank';
-    link.download = '/Acharya Dev resume.pdf';
+    link.download = 'Acharya Dev resume.pdf';
     link.click();
   };
 
